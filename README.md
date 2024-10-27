@@ -14,19 +14,19 @@
 
 > Pagina `index.html'
 
-![](./assets/index.png)
+![](./assets/index(site).png)
 
 > Pagina `homem-aranha.html'
 
-![](./assets/homem-aranha.png)
+![](./assets/homem-aranha(site).png)
 
 > Pagina `sonic-2.html'
 
-![](./assets/sonic-2.png)
+![](./assets/sonic-2(site).png)
 
 > Pagina `doutor-estranho.html'
 
-![](./assets/doutor-estranho.png)
+![](./assets/doutor-estranho(site).png)
 </details>
 
 <details>
