@@ -1,7 +1,7 @@
 ![](./assets/hd-header.png)
 
 ### Front-End - Exercícios de HTML
-### Anália / Hitaro (Changed)
+### Anália / Hitaro (Changed 1.0)
 
 <details>
 <summary>1 - WikMovies</summary>
